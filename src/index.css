@@ -71,3 +71,7 @@ button:hover{
   flex: 1 1 33.33%;
   background-color: var(--dark);
 }
+
+#all-clr{
+  background-color: var(--primary);
+}
